@@ -1,30 +1,16 @@
-# Magisk Module Template
-
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
-
----
-# **Module Name**
+# **xmlpak – a road to vendor apps**
 ## Description
-Description here
+This module enables you to download and install vendor apps from Google Play. Their compatibility is not guaranteed.
+
+What vendors are supported?
+HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer.
 ## Changelog
-Changelog here
+2.6: initial version for repo
 ## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
+- possibly none
 ## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
+After reboot, wait. Or not. Play Store often isn't too hasty in terms of compatibility detection. If you want to be quicker and don't want to say something about not working module, reset Play Store and Play Store Services data + reboot again. And if you are somehow on Marshmallow, you may even need to wipe the whole data.
 ## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
+[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-xmlpak-install-vendor-apps-t3701604 "Module official XDA thread")
 
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
