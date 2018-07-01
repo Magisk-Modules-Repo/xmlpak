@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.nvidia.graphics"
+            file="/system/framework/com.nvidia.graphics.jar"/>
+</permissions>

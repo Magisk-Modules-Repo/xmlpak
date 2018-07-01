@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.montana" />
+    <feature name="com.motorola.software.product.montana_retail" />
+    <feature name="com.motorola.hardware.tier.G" />
+    <feature name="com.motorola.hardware.wave.2017.2" />
+</permissions>

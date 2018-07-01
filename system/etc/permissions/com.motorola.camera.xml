@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  ~ Copyright (C) 2013 Motorola Mobility LLC,
+  ~ All Rights Reserved.
+  ~ Motorola Mobility Confidential Restricted.
+  -->
+
+<permissions>
+    <feature name="com.motorola.camera" />
+    <feature name="com.motorola.camera.chalmers" />
+</permissions>

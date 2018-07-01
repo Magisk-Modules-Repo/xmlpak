@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2014, NVIDIA CORPORATION.  All rights reserved. -->
+<permissions>
+    <feature name="nvidia.feature.controller_settings_ui" />
+</permissions>
+

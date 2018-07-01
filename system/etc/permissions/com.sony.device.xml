@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sony.device" file="/system/framework/com.sony.device.jar"/>
+</permissions>

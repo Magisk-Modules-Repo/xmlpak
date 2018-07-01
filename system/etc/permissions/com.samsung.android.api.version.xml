@@ -1,0 +1,3 @@
+<permissions>
+ <feature name="com.samsung.android.api.version.2402" />  <feature name="com.samsung.android.api.version.2403" />  <feature name="com.samsung.android.api.version.2501" />  <feature name="com.samsung.android.api.version.2502" />
+</permissions>

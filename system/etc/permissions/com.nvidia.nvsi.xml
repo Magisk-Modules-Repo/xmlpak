@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <feature name="com.nvidia.nvsi.version.v2"/>
+    <feature name="com.nvidia.nvsi.product.tablet"/>
+    <feature name="com.nvidia.nvsi.gpu.class_001"/>
+    <feature name="com.nvidia.nvsi.gpu.class_002"/>
+    <feature name="com.nvidia.nvsi.gpu.class_003"/>
+    <feature name="com.nvidia.nvsi.gpu.class_004"/>
+    <feature name="com.nvidia.nvsi.gpu.class_005"/>
+    <feature name="com.nvidia.nvsi.gpu.class_006"/>
+    <feature name="com.nvidia.nvsi.gpu.class_007"/>
+    <feature name="com.nvidia.nvsi.gpu.class_008"/>
+    <feature name="com.nvidia.nvsi.gpu.class_009"/>
+    <feature name="com.nvidia.nvsi.gpu.family_001"/>
+    <feature name="com.nvidia.nvsi.gpu.family_002"/>
+    <feature name="com.nvidia.nvsi.gpu.family_003"/>
+</permissions>

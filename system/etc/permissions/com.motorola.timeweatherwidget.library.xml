@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.motorola.timeweatherwidget.library"
+            file="/system/framework/com.motorola.timeweatherwidget.library.jar" />
+</permissions>

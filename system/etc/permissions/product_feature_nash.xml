@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.nash" />
+    <feature name="com.motorola.software.product.nash_retail" />
+    <feature name="com.motorola.hardware.tier.Z" />
+    <feature name="com.motorola.hardware.wave.2017.2" />
+</permissions>
