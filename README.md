@@ -3,9 +3,11 @@
 This module enables you to download and install vendor apps from Google Play. Their compatibility is not guaranteed.
 
 What vendors are supported?
+
 HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer.
 ## Changelog
 2.6: initial version for repo
+
 2.7: few xmls updated, what else?
 ## Requirements
 - possibly none
@@ -15,4 +17,4 @@ After reboot, wait. Or not. Play Store often isn't too hasty in terms of compati
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-xmlpak-install-vendor-apps-t3701604 "Module official XDA thread")
 
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
-g
+
