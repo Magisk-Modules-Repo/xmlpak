@@ -15,3 +15,4 @@ After reboot, wait. Or not. Play Store often isn't too hasty in terms of compati
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-xmlpak-install-vendor-apps-t3701604 "Module official XDA thread")
 
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+g
