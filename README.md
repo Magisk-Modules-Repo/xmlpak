@@ -6,6 +6,7 @@ What vendors are supported?
 HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer.
 ## Changelog
 2.6: initial version for repo
+2.7: few xmls updated, what else?
 ## Requirements
 - possibly none
 ## Instructions
