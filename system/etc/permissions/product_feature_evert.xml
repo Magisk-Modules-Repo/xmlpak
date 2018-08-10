@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.evert" />
+    <feature name="com.motorola.software.product.evert_retail" />
+    <feature name="com.motorola.hardware.tier.G" />
+    <feature name="com.motorola.hardware.wave.2018.1" />
+</permissions>

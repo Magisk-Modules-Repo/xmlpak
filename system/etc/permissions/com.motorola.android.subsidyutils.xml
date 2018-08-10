@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  * Copyright (C) 2016 Motorola Mobility LLC,
+  * All Rights Reserved.
+  * Motorola Mobility Confidential Restricted.
+  -->
+<permissions>
+    <library name="com.motorola.android.subsidyutils"
+        file="/system/framework/com.motorola.android.subsidyutils.jar"/>
+</permissions>

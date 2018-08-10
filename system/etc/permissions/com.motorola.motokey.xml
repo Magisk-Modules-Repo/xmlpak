@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <feature name="com.motorola.motokey"/>
-    <feature name="com.motorola.motokey.mkprovider"/>
-    <feature name="com.motorola.motokey.fpsfallback"/>
+    <feature name="com.motorola.motokey"/> <!-- To check availability of MotoKey feature support for the product -->
+    <feature name="com.motorola.motokey.mkprovider"/>  <!-- To check availability of MotoKey Store support in framework -->
+    <feature name="com.motorola.motokey.fpsfallback"/> <!-- To check availability of FPS fallback to LockScreen support in framework -->
 </permissions>

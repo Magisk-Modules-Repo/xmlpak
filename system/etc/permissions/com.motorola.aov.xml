@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <permissions>
-    <feature name="com.motorola.aov.ap_v3" />
+    <feature name="com.motorola.aov.ap_v4" />
     <feature name="com.motorola.aov.dsp_v4" />
     <feature name="com.motorola.aov.bt_sco_v1"/>
 </permissions>
