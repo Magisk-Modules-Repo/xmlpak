@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.evert"
+       file="/system/framework/com.motorola.imager.evert" />
+</permissions>
