@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <library name="com.blackberry.only" file="/system/framework/com.blackberry.only.jar"/>
+    <!-- start:BBRY_ANDROID: Library specific to BB hardware. It is used
+    for limiting APKs to our devices only. The library itself is not used
+    and doesn't point to any jars. -->
+    <library name="com.blackberry.only"
+            file="/system/framework/com.blackberry.only.jar"/>
+    <library name="com.blackberry.security"
+        file="/system/framework/com.blackberry.security.jar"/>
+    <!-- end:BBRY_ANDROID -->
 </permissions>
