@@ -9,6 +9,8 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 2.6: initial version for repo
 
 2.7: few xmls updated, what else?
+
+2.8: readded BQ Camera support
 ## Requirements
 - possibly none
 ## Instructions
