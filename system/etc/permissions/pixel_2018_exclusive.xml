@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These are configurations that should exist on Google's 2018 devices (and not newer/older) -->
+<config>
+    <!-- This defines the Photos preload feature for specifically the 2018 Pixel devices. -->
+    <feature name="com.google.android.apps.photos.PIXEL_2018_PRELOAD" />
+
+    <!-- This feature is meant to be the feature identifying a device supports wireless charger -->
+    <feature name="com.google.android.feature.DREAMLINER" />
+</config>

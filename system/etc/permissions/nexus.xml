@@ -5,7 +5,12 @@
     <!-- This is meant to be the canonical feature identifying 2016 and newer Nexus devices. -->
     <feature name="com.google.android.feature.PIXEL_EXPERIENCE" />
 
-    <!-- Both versions of this string are needed due to a miscommunication. b/29978934 -->
-    <feature name="com.google.android.apps.photos.NEXUS_PRELOAD" />
-    <feature name="com.google.android.apps.photos.nexus_preload" />
+    <!-- The feature identifying devices which are able to use the Turbo app -->
+    <feature name="com.google.android.feature.TURBO_PRELOAD" />
+
+    <!-- The feature identifying devices which are able to use the Android Wellbeing app. -->
+    <feature name="com.google.android.feature.WELLBEING" />
+
+    <!-- Enable Zero Touch Provisioning support for 2016 and newer Nexus devices. -->
+    <feature name="com.google.android.feature.ZERO_TOUCH" />
 </config>

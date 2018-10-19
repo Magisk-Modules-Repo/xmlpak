@@ -11,6 +11,8 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 2.7: few xmls updated, what else?
 
 2.8: readded BQ Camera support
+
+2.9: add Pixel 3 goodies
 ## Requirements
 - possibly none
 ## Instructions
