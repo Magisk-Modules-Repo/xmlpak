@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 Razer Inc. All rights reserved.
+-->
+
+<permissions>
+    <feature name="com.razerzone" />
+    <feature name="com.razer.camera" />
+    <feature name="com.razerzone.gamebooster" />
+    <feature name="com.razerzone.themes" />
+    <feature name="com.razerzone.razerservices" />
+</permissions>
+
