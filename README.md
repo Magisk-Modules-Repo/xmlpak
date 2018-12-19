@@ -15,6 +15,8 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 2.9: add Pixel 3 goodies
 
 3.0: add Razer Phone 2 xml
+
+3.1: possibly added ARCore apps support
 ## Requirements
 - possibly none
 ## Instructions
