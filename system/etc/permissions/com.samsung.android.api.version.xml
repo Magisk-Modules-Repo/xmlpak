@@ -1,3 +1,9 @@
 <permissions>
- <feature name="com.samsung.android.api.version.2402" />  <feature name="com.samsung.android.api.version.2403" />  <feature name="com.samsung.android.api.version.2501" />  <feature name="com.samsung.android.api.version.2502" />
+ <feature name="com.samsung.android.api.version.2402" />
+ <feature name="com.samsung.android.api.version.2403" />
+ <feature name="com.samsung.android.api.version.2501" />
+ <feature name="com.samsung.android.api.version.2502" />
+ <feature name="com.samsung.android.api.version.2601" />
+ <feature name="com.samsung.android.api.version.2701" />
+ <feature name="com.samsung.android.api.version.2801" />
 </permissions>
