@@ -19,6 +19,8 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 3.1: possibly added ARCore apps support
 
 3.2: update main Samsung xml
+
+3.3: add self-made Pixel 3a feature xml
 ## Requirements
 - possibly none
 ## Instructions
