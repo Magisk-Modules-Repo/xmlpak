@@ -23,6 +23,8 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 3.3: add self-made Pixel 3a feature xml
 
 3.4: update the template
+
+3.5: replace Pixel 3a xmls to original
 ## Requirements
 - possibly none
 ## Instructions
