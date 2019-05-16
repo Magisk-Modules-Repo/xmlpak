@@ -130,6 +130,9 @@ print_modname() {
 # Copy/extract your module files into $MODPATH in on_install.
 
 on_install() {
+  if [ ! -d "$MODPATH" ]; then
+    rm -rf /data/data/com.android.vending
+  fi
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
   ui_print "- Extracting module files"
