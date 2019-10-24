@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <feature name="com.google.android.apps.dialer.SUPPORTED" />
+    <feature name="com.google.android.apps.photos.PIXEL_2019_PRELOAD" />
+    <feature name="com.google.android.feature.DREAMLINER" />
+    <feature name="com.google.android.feature.EXCHANGE_6_2" />
+    <feature name="com.google.android.feature.GOOGLE_BUILD" />
+    <feature name="com.google.android.feature.GOOGLE_EXPERIENCE" />
+    <feature name="com.google.android.feature.NEXT_GENERATION_ASSISTANT" />
+    <feature name="com.google.android.feature.PIXEL_2017_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2018_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2019_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE" />
+    <feature name="com.google.android.feature.PIXEL_EXPERIENCE" />
+    <feature name="com.google.android.feature.TURBO_PRELOAD" />
+    <feature name="com.google.android.feature.WELLBEING" />
+    <feature name="com.google.android.feature.ZERO_TOUCH" />
+</config>
