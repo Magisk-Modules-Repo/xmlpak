@@ -28,7 +28,10 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 
 3.6: add self-made Pixel 4 feature xml
 
-4.0: Updated Google, Motorola, Sony, OPPO/OnePlus xmls and added new Microsoft xml
+4.0: updated Google, Motorola, Sony, OPPO/OnePlus xmls and added new Microsoft xml
+
+4.1: fix of features that cause crash in some apps
+
 ## Requirements
 - Magisk
 ## Instructions
