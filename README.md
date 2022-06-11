@@ -4,7 +4,7 @@ This module enables you to download and install vendor apps from Google Play. Th
 
 What vendors are supported?
 
-HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer.
+HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer, Microsoft.
 ## Changelog
 2.6: initial version for repo
 
@@ -27,8 +27,10 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 3.5: replace Pixel 3a xmls to original
 
 3.6: add self-made Pixel 4 feature xml
+
+4.0: Updated Google, Motorola, Sony, OPPO/OnePlus xmls and added new Microsoft xml
 ## Requirements
-- possibly none
+- Magisk
 ## Instructions
 **First installation of the module will result in Play Store data reset.** If you disabled automtic app updates, keep this in mind.
 

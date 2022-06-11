@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<feature name="com.google.android.feature.PIXEL_2017_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2018_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2019_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2020_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2020_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2021_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2021_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2022_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2022_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2023_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_TABLET_EXPERIENCE"/>
+<feature name="com.google.android.feature.QUICK_TAP"/>
+<feature name="com.google.android.feature.TURBO_PRELOAD"/>
+<feature name="com.google.android.feature.WELLBEING"/>
+<feature name="com.google.android.feature.ZERO_TOUCH"/>
+<feature name="com.google.android.feature.hotword"/>
+<feature name="com.google.android.feature.large_display"/>
+<feature name="com.google.android.feature.services_updater"/>
+<feature name="com.google.android.feature.tv.BBC"/>
+<feature name="com.google.android.feature.zero_touch"/>
+<feature name="com.google.android.googlequicksearchbox.AMBIENT_DISPLAY_CHIPS"/>
+<feature name="com.google.android.googlequicksearchbox.AMB_DEVICE_INTEGRATION"/>
+<feature name="com.google.android.googlequicksearchbox.OEM_AOD_SMARTSPACE"/>
+<feature name="com.google.android.googlequicksearchbox.OEM_SMARTSPACE_WIDGET"/>
+<feature name="com.google.android.googlequicksearchbox.SMARTSPACE_DEVICE_FEATURE"/>
+<feature name="com.google.android.paid.chrome"/>
+<feature name="com.google.android.paid.qsb_widget"/>
+<feature name="com.google.android.paid.search"/>
+<feature name="com.google.hardware.camera.easel"/>
+<feature name="com.google.hardware.camera.easel_2018"/>
+<feature name="com.google.lens.feature.CAMERA_INTEGRATION"/>
+<feature name="com.google.lens.feature.IMAGE_INTEGRATION"/>
+<feature name="com.google.photos.trust_debug_certs"/>
+</config>
