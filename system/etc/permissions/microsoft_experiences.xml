@@ -2,12 +2,6 @@
 <config>
     <feature name="com.microsoft.android.feature.REMOTE_TASKS" />
     <feature name="com.microsoft.cortana" />
-    <feature name="com.microsoft.device.display.displaymask" />
-    <feature name="com.microsoft.device.service.clipboardbroker" />
-    <feature name="com.microsoft.device.service.inputbroker" />
     <feature name="com.microsoft.surface.android.feature.SURFACE_2021_EXPERIENCE" />
     <feature name="com.microsoft.surface.android.feature.SURFACE_EXPERIENCE" />
-    <feature name="com.microsoft.surface.camera.eye.contact" />
-    <feature name="com.microsoft.surface.systemui.spine" />
-    <feature name="com.microsoft.surface.vendor_layout_window_management" />
 </config>
