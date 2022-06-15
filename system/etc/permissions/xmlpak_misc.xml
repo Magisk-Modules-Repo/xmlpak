@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.yandex.software.yphone"/>
+	<feature name="com.pixavi.feature.PIXAVI_ENHANCEMENT"/>
+	<feature name="com.sprint.internal.LauncherFacade"/>
+	<feature name="com.yotadevices.feature.API_YD201_005"/>
+	<feature name="com.zui.camera"/>
+	<feature name="com.zui.dual.vibrator"/>
+	<feature name="com.zui.gaming.bar"/>
+	<feature name="com.zui.legion.light"/>
+	<feature name="com.cisco.anyconnect.permissions.universal"/>
+	<feature name="com.cisco.permissions.universal"/>
+	<feature name="com.codeaurora.snapcam"/>
+	<feature name="com.essential.feature.ESSENTIAL_EXPERIENCE"/>
+	<feature name="amazon.alexa.modeswitch"/>
+	<feature name="amazon.dolby_dax"/>
+	<feature name="amazon.hardware.voicedsp"/>
+	<feature name="amazon.service.amazon_logd"/>
+	<feature name="amazon.software.sim"/>
+	<feature name="amazon.speech.sim.aotjp"/>
+	<feature name="amazon.speech.tcommdownchannel"/>
+	<feature name="amazon.speech.wakeword"/>
+	<feature name="com.amazon.feature.PRELOAD"/>
+	<feature name="com.dolby.dax2appUI"/>
+</config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <feature name="com.vinsmart.config.devices_3rd_round"/>
+	<feature name="com.vinsmart.config.gamemode.version_1.0"/>
+	<feature name="com.vinsmart.config.support.gallery"/>
+	<feature name="com.vinsmart.config.theme.version_1.0"/>
+	<feature name="com.vinsmart.config.vinsmart_devices.go.version_1.0"/>
+	<feature name="com.vinsmart.config.vinsmart_devices.version_1.0"/>
+	<feature name="com.vinsmart.config.vinsmart_faceunlock_support"/>
+	<feature name="com.vinsmart.config.vmessage.version_1.0"/>
+	<feature name="com.vinsmart.software"/>
+	<feature name="com.vinsmart.software.camera.bamboo"/>
+	<feature name="com.vinsmart.software.camera.coconut"/>
+	<feature name="com.vinsmart.software.camera.glove"/>
+	<feature name="com.vinsmart.software.camera.jacaranda"/>
+	<feature name="com.vinsmart.software.camera.juniper"/>
+	<feature name="com.vinsmart.software.camera.nara"/>
+	<feature name="com.vinsmart.software.camera.pine"/>
+	<feature name="com.vinsmart.software.camera.willow"/>
+</config>

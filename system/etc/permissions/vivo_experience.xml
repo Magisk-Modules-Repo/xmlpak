@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.vivo.feature.GDPR"/>
+	<feature name="com.vivo.software.access.app.data.disable"/>
+	<feature name="com.vivo.software.support.easyshare.system.permission.backup"/>
+	<feature name="com.vivo.software.support.permission.record"/>
+	<feature name="com.vivo.software.support.permission.rom13"/>
+	<feature name="com.vivo.themestore.SUPPORTED"/>
+	<feature name="com.vivo.website.in.SUPPORTED"/>
+</config>

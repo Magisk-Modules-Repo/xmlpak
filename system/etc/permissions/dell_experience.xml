@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.dell.android.feature.DELL_BUILD"/>
+	<feature name="com.dell.android.feature.DELL_STAGE"/>
+	<feature name="com.dell.android.feature.DELL_STAGE1_6"/>
+	<feature name="com.dell.android.feature.DELL_STREAK"/>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.truecaller.dialer.integration"/>
+	<feature name="com.truecaller.partner.blu"/>
+	<feature name="com.truecaller.partner.micromax"/>
+	<feature name="com.truecaller.partner.wileyfox"/>
+	<feature name="com.truedialer.partner.blu"/>
+</config>

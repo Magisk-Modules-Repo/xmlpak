@@ -5,6 +5,7 @@
 
 <permissions>
     <feature name="com.razerzone" />
+	<feature name="com.razerzone.camera" />
     <feature name="com.razer.camera" />
     <feature name="com.razerzone.gamebooster" />
     <feature name="com.razerzone.themes" />

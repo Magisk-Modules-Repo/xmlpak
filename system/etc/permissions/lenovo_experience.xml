@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<feature name="com.amazon.alexa.multimodal.lenovo.target"/>
+	<feature name="com.cisco.anyconnect.permissions.patch.lenovo"/>
+	<feature name="com.lenovo.akgservice"/>
+	<feature name="com.lenovo.android.feature.STYLUS_PEN"/>
+	<feature name="com.lenovo.flash.test"/>
+	<feature name="com.lenovo.framework.appiconintegration.support"/>
+	<feature name="com.lenovo.framework.ziptheme.support"/>
+	<feature name="com.lenovo.hardware.display.camera_notch"/>
+	<feature name="com.lenovo.hardware.fm"/>
+	<feature name="com.lenovo.hardware.fm.antenna.builtin"/>
+	<feature name="com.lenovo.hardware.piezo_speaker"/>
+	<feature name="com.lenovo.mic.loopback"/>
+	<feature name="com.lenovo.pcba.test"/>
+	<feature name="com.lenovo.project"/>
+	<feature name="com.lenovo.settings.wifi.with_launcher"/>
+	<feature name="com.lenovo.software.wifi_password_share"/>
+	<feature name="com.lenovo.theme.editorfonttypeface"/>
+	<feature name="com.lenovo.theme.fontsupport"/>
+	<feature name="com.lenovo.themecenter.sendbroadcasttolockscreen.support"/>
+	<feature name="com.lenovo.themecenter.unzipres.support"/>
+	<feature name="com.lenovo.togglewindow.enable"/>
+	<feature name="com.lenovo.weather.custom.widget.support"/>
+	<feature name="com.lenovo.ziptheme.custompreload.support"/>
+	<feature name="lenovo.software.android_plus"/>
+	<feature name="lenovo.software.biometrics.face"/>
+</config>

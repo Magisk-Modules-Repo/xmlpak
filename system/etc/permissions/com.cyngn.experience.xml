@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<permissions>
+    <feature name="com.cyanogenmod.android" />
+    <feature name="com.cyanogenmod.nfc.enhanced" />
+    <feature name="com.cyanogenmod.services.version.1" />
+    <feature name="cyanogenmod.hardware.fingerprint" />
+    <feature name="org.cyanogenmod.appsuggest" />
+    <feature name="org.cyanogenmod.audio" />
+    <feature name="org.cyanogenmod.hardware" />
+    <feature name="org.cyanogenmod.livedisplay" />
+    <feature name="org.cyanogenmod.livelockscreen" />
+    <feature name="org.cyanogenmod.partner" />
+    <feature name="org.cyanogenmod.performance" />
+    <feature name="org.cyanogenmod.profiles" />	
+	<feature name="org.cyanogenmod.statusbar" />	
+    <feature name="org.cyanogenmod.telephony" />	
+    <feature name="org.cyanogenmod.theme" />	
+    <feature name="org.cyanogenmod.theme.v1" />	
+    <feature name="org.cyanogenmod.weather" />	
+</permissions>

@@ -1,6 +1,7 @@
 id=xmlpak
 name=xmlpak – a road to vendor apps
-version=v4.1
-versionCode=41
+version=v4.2
+versionCode=42
 author=RKBDI, Tadi (j1505243 at xda)
 description=This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.
+updateJson=https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json

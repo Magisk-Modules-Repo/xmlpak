@@ -65,7 +65,6 @@
 	<feature name="com.motorola.cameraone"/>
 	<feature name="com.motorola.cameraonemtk"/>
 	<feature name="com.motorola.context"/>
-	<feature name="com.motorola.datacollector"/>
 	<feature name="com.motorola.deviceauthenticator"/>
 	<feature name="com.motorola.easyprefix"/>
 	<feature name="com.motorola.email"/>
