@@ -1,9 +1,15 @@
-**4.2**    
+**4.4**    
+- Fixed Samsung health crash
+- Added Nothing features
+- Added more Pixel 6a features
+- Added more asus features
+
+4.2: 
 - Fixed GMS crash
 - Fixed UWB crash
 - Added DELL features
 - Added HTC features
-- Added some misc features for Alexa etc.  
+- Added some misc features for Alexa etc. 
 
 4.1: fix of features that cause crash in some apps
 

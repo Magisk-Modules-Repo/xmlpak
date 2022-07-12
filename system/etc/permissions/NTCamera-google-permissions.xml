@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- Lens in Camera Feature Flag --> 
+<config> 
+<feature name="com.google.lens.feature.CAMERA_INTEGRATION" /> 
+</config>

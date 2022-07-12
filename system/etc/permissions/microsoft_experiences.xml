@@ -3,5 +3,7 @@
     <feature name="com.microsoft.android.feature.REMOTE_TASKS" />
     <feature name="com.microsoft.cortana" />
     <feature name="com.microsoft.surface.android.feature.SURFACE_2021_EXPERIENCE" />
+	<feature name="com.microsoft.surface.android.feature.SURFACE_2022_EXPERIENCE" />
+    <feature name="com.microsoft.surface.android.feature.SURFACE_2023_EXPERIENCE" />
     <feature name="com.microsoft.surface.android.feature.SURFACE_EXPERIENCE" />
 </config>

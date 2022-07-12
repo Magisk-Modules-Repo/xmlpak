@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+
+    <privapp-permissions package="com.nothing.camera">
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.RECORD_AUDIO"/>
+        <permission name="android.permission.CONTROL_DISPLAY_BRIGHTNESS"/>
+        <permission name="android.permission.READ_PHONE_STATE" />
+        <permission name="android.permission.CONTROL_DEVICE_LIGHTS" />
+        <permission name="android.permission.DEVICE_POWER"/>
+    </privapp-permissions>
+  
+</permissions>

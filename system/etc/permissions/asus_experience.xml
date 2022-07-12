@@ -95,6 +95,10 @@
 	<feature name="asus.software.gamewidget.zenui.rog2.r"/>
 	<feature name="asus.software.gamewidget.zenui.rog3"/>
 	<feature name="asus.software.gamewidget.zenui.rog5"/>
+	<feature name="asus.software.gamewidget.zenui.rog6"/>
+	<feature name="asus.software.gamewidget.zenui.rog7"/>
+	<feature name="asus.software.gamewidget.zenui.rog8"/>
+	<feature name="asus.software.gamewidget.zenui.rog9"/>
 	<feature name="asus.software.gamewidget.zenui40"/>
 	<feature name="asus.software.gamewidget.zenui45"/>
 	<feature name="asus.software.gamewidget_2"/>
@@ -234,6 +238,8 @@
 	<feature name="asus.software.wifi_generation_ui"/>
 	<feature name="asus.software.zenimoji.obj"/>
 	<feature name="asus.software.zenui"/>
+	<feature name="asus.software.zenui.ten"/>
+	<feature name="asus.software.zenui.nine"/>
 	<feature name="asus.software.zenui.eight"/>
 	<feature name="asus.software.zenui.five"/>
 	<feature name="asus.software.zenui.rog"/>

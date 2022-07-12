@@ -26,7 +26,6 @@
 	<feature name="com.sec.feature.call_vt_support"/>
 	<feature name="com.sec.feature.cocktailbar"/>
 	<feature name="com.sec.feature.cocktailpanel"/>
-	<feature name="com.sec.feature.context_awareness"/>
 	<feature name="com.sec.feature.edge_v03"/>
 	<feature name="com.sec.feature.findo"/>
 	<feature name="com.sec.feature.flashbar"/>
@@ -44,8 +43,6 @@
 	<feature name="com.sec.feature.pocketmode"/>
 	<feature name="com.sec.feature.saccessorymanager"/>
 	<feature name="com.sec.feature.samsunglinkplatform"/>
-	<feature name="com.sec.feature.scontext_lite"/>
-	<feature name="com.sec.feature.sensorhub"/>
 	<feature name="com.sec.feature.sidetouch"/>
 	<feature name="com.sec.feature.slocation"/>
 	<feature name="com.sec.feature.snote"/>

@@ -1,6 +1,6 @@
 {
-    "version": "4.2",
-    "versionCode": 42,
-    "zipUrl": "https://github.com/Magisk-Modules-Repo/xmlpak/releases/download/v4.2/xmlpak_module_4_2.zip",
+    "version": "4.4",
+    "versionCode": 44,
+    "zipUrl": "https://github.com/Magisk-Modules-Repo/xmlpak/releases/download/v4.4/xmlpak_module_4_4.zip",
     "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/changelog.md"
 }

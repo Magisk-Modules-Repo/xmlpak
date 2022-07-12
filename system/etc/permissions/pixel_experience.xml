@@ -12,6 +12,8 @@
 <feature name="com.google.android.feature.PIXEL_2022_MIDYEAR_EXPERIENCE"/>
 <feature name="com.google.android.feature.PIXEL_2023_EXPERIENCE"/>
 <feature name="com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2024_EXPERIENCE"/>
+<feature name="com.google.android.feature.PIXEL_2024_MIDYEAR_EXPERIENCE"/>
 <feature name="com.google.android.feature.PIXEL_EXPERIENCE"/>
 <feature name="com.google.android.feature.TURBO_PRELOAD"/>
 <feature name="com.google.android.feature.WELLBEING"/>
@@ -19,6 +21,7 @@
 <feature name="com.google.android.googlequicksearchbox.OEM_AOD_SMARTSPACE"/>
 <feature name="com.google.android.googlequicksearchbox.OEM_SMARTSPACE_WIDGET"/>
 <feature name="com.google.hardware.camera.easel"/>
+<feature name="com.google.android.feature.ASI"/>
 <feature name="com.google.hardware.camera.easel_2018"/>
 <feature name="com.google.lens.feature.CAMERA_INTEGRATION"/>
 <feature name="com.google.lens.feature.IMAGE_INTEGRATION"/>
@@ -29,4 +32,7 @@
 <feature name="com.google.android.feature.LILY_EXPERIENCE"/>
 <feature name="com.google.android.feature.NEXT_GENERATION_ASSISTANT"/>
 <feature name="com.google.lens.feature.IMAGE_INTEGRATION"/>
+<feature name="com.google.android.feature.EXCHANGE_6_2"/>
+<feature name="com.google.ar.core.depth"/>
+<feature name="com.google.android.feature.AER_OPTIMIZED"/>
 </config>

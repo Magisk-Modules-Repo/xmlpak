@@ -22,4 +22,5 @@
 	<feature name="amazon.speech.wakeword"/>
 	<feature name="com.amazon.feature.PRELOAD"/>
 	<feature name="com.dolby.dax2appUI"/>
+	<feature name="com.nxp.mifare"/>
 </config>
