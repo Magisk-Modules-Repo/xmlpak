@@ -18,4 +18,21 @@
     <feature name="org.cyanogenmod.theme" />	
     <feature name="org.cyanogenmod.theme.v1" />	
     <feature name="org.cyanogenmod.weather" />	
+	<feature name="com.cyngn.audiofx"/>
+	<feature name="com.cyngn.crispybacon"/>
+	<feature name="com.cyngn.discovery"/>
+	<feature name="com.cyngn.fota"/>
+	<feature name="com.cyngn.screencast"/>
+	<feature name="com.cyngn.updater"/>
+	<feature name="org.lineageos.android"/>
+	<feature name="org.lineageos.audio"/>
+	<feature name="org.lineageos.globalactions"/>
+	<feature name="org.lineageos.hardware"/>
+	<feature name="org.lineageos.livedisplay"/>
+	<feature name="org.lineageos.performance"/>
+	<feature name="org.lineageos.profiles"/>
+	<feature name="org.lineageos.settings"/>
+	<feature name="org.lineageos.style"/>
+	<feature name="org.lineageos.trust"/>
+	<feature name="org.lineageos.weather"/>
 </permissions>

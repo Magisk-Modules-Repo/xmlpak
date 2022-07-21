@@ -34,5 +34,6 @@
 <feature name="com.google.lens.feature.IMAGE_INTEGRATION"/>
 <feature name="com.google.android.feature.EXCHANGE_6_2"/>
 <feature name="com.google.ar.core.depth"/>
+<feature name="com.google.ar.core.depth"/>
 <feature name="com.google.android.feature.AER_OPTIMIZED"/>
 </config>

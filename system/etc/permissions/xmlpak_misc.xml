@@ -23,4 +23,13 @@
 	<feature name="com.amazon.feature.PRELOAD"/>
 	<feature name="com.dolby.dax2appUI"/>
 	<feature name="com.nxp.mifare"/>
+	<feature name="com.infinix.software"/>
+	<feature name="com.intermec.android"/>
+	<feature name="com.intigral.launcher.feature"/>
+	<feature name="com.yotadevices.feature.API_YD201_005"/>
+	<feature name="cyanogenmod.hardware.fingerprint"/>
+	<feature name="sc.hardware.blackphone"/>
+	<feature name="sura.tool.feature"/>
+	<feature name="system.show_ecosystem_contents"/>
+	<feature name="system.show_ecosystem_switch"/>
 </config>
