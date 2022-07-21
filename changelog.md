@@ -1,8 +1,7 @@
-**4.4**    
-- Fixed Samsung health crash
-- Added Nothing features
-- Added more Pixel 6a features
-- Added more asus features
+**4.5**    
+- Fixed some Asus things
+- Added more features 
+- Fixed update loop
 
 4.2: 
 - Fixed GMS crash
